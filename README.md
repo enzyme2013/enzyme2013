@@ -9,6 +9,7 @@
 
 # Reach me
 - email: liuyj3003@gmail.com
+- https://x.com/EugeneLiu41
 - wechat: ovoodoo
 - discord: EugeneLiu#5797
 
